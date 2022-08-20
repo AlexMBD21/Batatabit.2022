@@ -1,0 +1,52 @@
+.main-tables-container-slider{
+    display: flex;
+    flex-wrap:nowrap;
+    width: 929px;
+    margin: 0 auto;
+
+}
+
+.main-currency-table1,.main-currency-table2{
+	margin: 0 22px;
+}
+	
+
+.product-cards--container  {
+    margin: 0 10px;
+}
+
+.currency-table-container1,.currency-table-container2{
+	margin: 0 auto;
+	
+}
+
+.main-tables-container-slider{
+    justify-content: center;
+    overflow: hidden;
+	
+}
+
+.bullets{
+	 overflow: hidden;
+	 display:none;
+}
+
+
+.plans-container--slider{
+
+width: 647px;
+margin: 0 auto;
+}
+.plans-container--slider{
+justify-content: center;
+overflow: hidden;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 928px;
+    margin: 0 auto;
+    justify-content: center;   
+}
+
